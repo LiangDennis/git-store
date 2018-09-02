@@ -19,7 +19,9 @@ git is free soft ware.
   穿梭前，用git log可以查看提交历史，以便确定要回退到哪个版本，可以用git log --        pretty=oneline简要查看。
   要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。
 第四节
-  git init初始化的文件夹是工作区，git init所创建的文件.git 是版本库，版本库中有stage 暂存区  ，和第一个分支master，所对应的命令是git add，和git commit
+  git init初始化的文件夹是工作区，git init所创建的文件.git 是版本库，版本库中有stage 暂存区    ，和第一个分支master，所对应的命令是git add，和git commit
+第五节
+  git 跟踪和管理的是修改，而不是文件
 
 
 hello
